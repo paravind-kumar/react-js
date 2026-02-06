@@ -1,0 +1,17 @@
+.test{
+  color: red;
+}
+
+.heading{
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: blueviolet;
+}
+
+.visible{
+  display: block;
+}
+.hidden{
+  display: none;
+}
